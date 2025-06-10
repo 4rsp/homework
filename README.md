@@ -1,5 +1,5 @@
 # homework
-little project for alghoritma class 
+little project for algorithm class 
 
 here's a screenshot to showcase it is indeed working
 
